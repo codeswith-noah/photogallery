@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    font-family:monospace;
+}
+
+.headertext{
+    font-size:100px;
+}
+
+.grid{
+    height:150px;
+    width:180px;
+}
+
+#home{
+    margin-bottom:200px;
+}
+
+#topimg{
+    border-width:100px;
+    border-color:blueviolet;
+}
